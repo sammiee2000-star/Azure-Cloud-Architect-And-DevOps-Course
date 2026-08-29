@@ -1,5 +1,9 @@
 # 🧪 LAB 01 — Azure Environment & Resource Management
 
+## 🖼️ Lab 01 — Azure Environment at a Glance
+
+![Lab 01 — Azure Resource Management](./lab-01-azure-resource-management-infographic.png)
+
 > **40-Lab Azure Cloud Engineering • Architecture • DevOps Program**
 
 **Certification Alignment:** AZ-900  
